@@ -3,7 +3,7 @@
 Hello!, I'm Victor Martins, computer science student at UNESPAR(State University of Parana) - BR.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-546a20231/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/in/victor-martins-546a20231/](https://www.instagram.com/victorqm11/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorqm11/))
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorQMm&show_icons=true&theme=dracula)
 
