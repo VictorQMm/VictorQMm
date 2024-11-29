@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! I'm a Computer Science student at **UNESPAR (State University of Paraná)**, Brazil. I'm passionate about programming, problem-solving, and software development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-b72a351b7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/victormartinsdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-querino-martins-844796278/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/victorqm11/)
 
 ## 🚀 GitHub Stats
 ![Victor Querino Martins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorQr&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
