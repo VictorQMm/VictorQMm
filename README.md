@@ -1,18 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Victor Querino Martins 👋
 
-Hello!, I'm Victor Martins, computer science student at UNESPAR(State University of Parana) - BR.
+Welcome to my GitHub! I'm a Computer Science student at **UNESPAR (State University of Paraná)**, Brazil. I'm passionate about programming, problem-solving, and software development.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-querino-martins-844796278/?trk=opento_sprofile_topcard)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorqm11/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-b72a351b7)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/victormartinsdev/)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorQMm&show_icons=true&theme=dracula)
+## 🚀 GitHub Stats
+![Victor Querino Martins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorQr&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 
-<div style="display: inline_block"> <br/>
-  Technologies : <br/><br/>
-  <img align= "center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align= "center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align= "center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
+## 🧑‍💻 Technologies & Tools
+I'm experienced in the following technologies and tools:
 
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **Java** ☕
+- **C** 🔧
+
+## 📚 What I'm currently working on
+- Building more efficient algorithms and improving coding practices.
+- Exploring new technologies.
+- **Taking the Origamid Web Development Course**: Expanding my knowledge in front-end and back-end development, and improving my design skills through hands-on projects.
+
+Feel free to explore my repositories! 🚀
