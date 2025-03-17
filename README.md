@@ -14,8 +14,7 @@ I'm experienced in the following technologies and tools:
 
 - **HTML5** 🌐
 - **CSS3** 🎨
-- **Java** ☕
-- **C** 🔧
+- **C & C++** 🔧
 
 ## 📚 What I'm currently working on
 - Building more efficient algorithms and improving coding practices.
